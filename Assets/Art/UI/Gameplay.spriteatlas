@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gameplay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 90c2fee5a53c61a4392246aed4624a2d, type: 3}
+    totalSpriteSurfaceArea: 4214170
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 67b67ac271354c5458d3f6c828d4dd8f, type: 3}
+  - {fileID: 21300000, guid: 242a0713c93bab842989b3a2dc228b19, type: 3}
+  - {fileID: 21300000, guid: 888ea693dc539aa4e8c3e0f602c035a3, type: 3}
+  - {fileID: 21300000, guid: 1602b6259fb75124ba143b2374cc16c5, type: 3}
+  - {fileID: 21300000, guid: 0ac19d85ee7e3d64b893d8101a91ad91, type: 3}
+  - {fileID: 21300000, guid: 1826ab56822d9a041868fc464c7ec921, type: 3}
+  - {fileID: 21300000, guid: 2c761d667177e1e43826fa3a18206586, type: 3}
+  - {fileID: 21300000, guid: 6832a8376b6fb51438f9e8f33ed08289, type: 3}
+  - {fileID: 21300000, guid: 37d31d37d8cb5344291528ec0159eafc, type: 3}
+  - {fileID: 21300000, guid: f409d757993ddcd40ae7291fcbe0aa3b, type: 3}
+  - {fileID: 21300000, guid: d162017728996f148b6d2b8426dca21b, type: 3}
+  - {fileID: 21300000, guid: 57b6fe48cff86f44aa0cd5faa56b0b22, type: 3}
+  - {fileID: 21300000, guid: 2f81cb5a71ce76648af7ed1a1a138d3f, type: 3}
+  - {fileID: 21300000, guid: cd31194b699d6194e95649ccaabdb9e6, type: 3}
+  - {fileID: 21300000, guid: 6f8792cdb8056a6439ee049581baf5c4, type: 3}
+  - {fileID: 21300000, guid: 8a10251f87c0d7045a9247f8f33fc15d, type: 3}
+  - {fileID: 21300000, guid: e4da73efb40be404e897004e22ccc6c3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - wheel_part3
+  - wheel
+  - bg
+  - wheel_part
+  - button_close_down
+  - results_bg
+  - button
+  - pointer
+  - button_close
+  - round
+  - regular_input
+  - wheel_part2
+  - wheel_part4
+  - wheel_back
+  - button_down
+  - total_win
+  - wheel_part1
+  m_Tag: Gameplay
+  m_IsVariant: 0
